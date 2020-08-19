@@ -13,7 +13,6 @@ def baner():
     print ('''
 \tALL Brutal Spammer
 \t------------
-\t==========================================''')
 \nCreator: Mr.Unknown
 Youtube: DroidStah
 Github : github.com/DroidStah
