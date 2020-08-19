@@ -11,9 +11,11 @@ def balik():
        sys.exit()
 def baner():
     print ('''
-\tALL SPAM OTP
+\tALL Brutal Spammer
 \t------------
-\nCreator:Mr.Unknown
+\n
+==========================================''')
+Creator: Mr.Unknown
 Youtube: DroidStah
 Github : github.com/DroidStah
 ==========================================''')
