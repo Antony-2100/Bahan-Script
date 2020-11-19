@@ -9,4 +9,4 @@ $python -m pip install requests
 
 $git clone https://github.com/KamZ0/Spammer
 
-©copyright by DroidStah 2020
+©copyright by Eagle Reporting Commision
