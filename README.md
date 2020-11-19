@@ -7,6 +7,6 @@ $pkg install git
 
 $python -m pip install requests
 
-$git clone https://github.com/DroidStah/brutal-spammer
+$git clone https://github.com/KamZ0/Spammer
 
 ©copyright by DroidStah 2020
