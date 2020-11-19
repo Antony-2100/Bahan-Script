@@ -1,4 +1,4 @@
-# brutal-spammer
+# Bahan Bahan
 $pkg update && pkg upgrade
 
 $pkg install python
